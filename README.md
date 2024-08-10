@@ -130,7 +130,7 @@ contract DeganToken is ERC20, ERC20Burnable, Ownable(msg.sender) {
 3. You will be able to see the transation on the deployed contract on snowtrace test weibsite
 ## Help
 
-If you encounter any issues or have questions about using the smart contract, please contact [preetjawla6@gmail.com].
+If you encounter any issues or have questions about using the smart contract, please contact [sakshammishra112@gmail.com].
 
 ## Authors
 
